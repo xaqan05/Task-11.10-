@@ -1,0 +1,14 @@
+C:\Users\Xaqan\source\repos\Task(11.10)\Task(11.10)\bin\Debug\net8.0\Task(11.10).exe
+C:\Users\Xaqan\source\repos\Task(11.10)\Task(11.10)\bin\Debug\net8.0\Task(11.10).deps.json
+C:\Users\Xaqan\source\repos\Task(11.10)\Task(11.10)\bin\Debug\net8.0\Task(11.10).runtimeconfig.json
+C:\Users\Xaqan\source\repos\Task(11.10)\Task(11.10)\bin\Debug\net8.0\Task(11.10).dll
+C:\Users\Xaqan\source\repos\Task(11.10)\Task(11.10)\bin\Debug\net8.0\Task(11.10).pdb
+C:\Users\Xaqan\source\repos\Task(11.10)\Task(11.10)\obj\Debug\net8.0\Task(11.10).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xaqan\source\repos\Task(11.10)\Task(11.10)\obj\Debug\net8.0\Task(11.10).AssemblyInfoInputs.cache
+C:\Users\Xaqan\source\repos\Task(11.10)\Task(11.10)\obj\Debug\net8.0\Task(11.10).AssemblyInfo.cs
+C:\Users\Xaqan\source\repos\Task(11.10)\Task(11.10)\obj\Debug\net8.0\Task(11.10).csproj.CoreCompileInputs.cache
+C:\Users\Xaqan\source\repos\Task(11.10)\Task(11.10)\obj\Debug\net8.0\Task(11.10).dll
+C:\Users\Xaqan\source\repos\Task(11.10)\Task(11.10)\obj\Debug\net8.0\refint\Task(11.10).dll
+C:\Users\Xaqan\source\repos\Task(11.10)\Task(11.10)\obj\Debug\net8.0\Task(11.10).pdb
+C:\Users\Xaqan\source\repos\Task(11.10)\Task(11.10)\obj\Debug\net8.0\Task(11.10).genruntimeconfig.cache
+C:\Users\Xaqan\source\repos\Task(11.10)\Task(11.10)\obj\Debug\net8.0\ref\Task(11.10).dll
